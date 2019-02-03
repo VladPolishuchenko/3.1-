@@ -1,0 +1,4 @@
+<?php
+$google = ['scheme' => 'http', 'host' =>'www.google.com', 'domain' => 'google.com', 'subdomain' => 'www', 'tld' => '.com'];
+$drive = ['scheme' => 'http', 'host' =>'www.google.com', 'domain' => 'google.com', 'subdoma$
+$pdffiller = [
